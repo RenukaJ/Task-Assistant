@@ -1,4 +1,4 @@
-# Personalized-Dashboard
+# Task-Assistant
 
 Software Installation
 1.	Java should be installed
